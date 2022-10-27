@@ -1,5 +1,43 @@
-/* remove this code and add your own! */
-.greeting {
-  color: green;
-  font-size: 30px;
+
+h5 {
+  font-family: 'Roboto Slab', serif;
+  color: teal;
+  
+}
+
+.lead {
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1.5rem;
+  font-weight: 300;
+  color: darkgrey;
+}
+
+
+
+img {
+  background-color: teal;
+  /*min-height: 700px;*/
+  
+  
+  
+}
+
+
+.carousel-caption {
+  top: 0;
+  font-family: 'Trispace', sans-serif;
+
+}
+
+
+.card-body {
+  background-color: #00cccc;
+  font-family:'Roboto Slab', serif;
+  
+}
+
+ .card-text {
+  font-size: 25px;
+  letter-spacing: 2px;
 }
